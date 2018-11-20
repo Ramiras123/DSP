@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Tue Nov 20 09:54:53 MSK 2018
+2.base=/Users/Ramiras/Desktop/laba7/app/build/intermediates/assets/release
+0.path=texter1
+2.baseType=DIRECTORY
+3.base=/Users/Ramiras/Desktop/laba7/app/build/intermediates/transforms/dexMerger/release/0
+2.set=ASSET
+1.path=trara.gif
+4.base=/Users/Ramiras/Desktop/laba7/app/build/intermediates/assets/release
+count=5
+2.path=giff.gif
+4.set=ASSET
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=giphy.gif
+1.baseType=DIRECTORY
+0.base=/Users/Ramiras/Desktop/laba7/app/build/intermediates/assets/release
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=/Users/Ramiras/Desktop/laba7/app/build/intermediates/assets/release
+4.baseType=DIRECTORY
+0.set=ASSET

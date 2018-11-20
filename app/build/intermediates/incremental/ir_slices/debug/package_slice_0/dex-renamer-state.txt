@@ -1,0 +1,4 @@
+#Tue Nov 20 12:48:46 MSK 2018
+base.0=/Users/Ramiras/Desktop/laba7/app/build/intermediates/transforms/dexMerger/debug/137
+path.0=classes.dex
+renamed.0=classes.dex
